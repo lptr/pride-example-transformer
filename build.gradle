@@ -6,7 +6,7 @@ buildscript {
 		}
 	}
     dependencies {
-        classpath "com.prezi.gradle.pride:gradle-pride-plugin:0.5.1"
+        classpath "com.prezi.gradle.pride:gradle-pride-plugin:0.6"
     }
 }
 
